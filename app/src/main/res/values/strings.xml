@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pear</string>
+    <string name="pear_text">peAR</string>
+    <string name="search_hint_text">Search for previous orders...</string>
+    <string name="more_details">MORE DETAILS</string>
+    <string name="make_my_day_text">Make my day</string>
+    <string name="items_text">ITEMS</string>
+    <string name="ordered_on_text">ORDERED ON</string>
+    <string name="total_amount_text">TOTAL AMOUNT</string>
+</resources>
